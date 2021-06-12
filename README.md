@@ -1,7 +1,7 @@
 # Table of contents
 
 - [MY DOMAINS](#my-domains)
-  * [Journeys' domains on .CC zone](#journeys--domains-on-cc-zone)
+  * [Journeys domains on .CC zone](#journeys-domains-on-cc-zone)
     + [[ÖLAND-SAAR.CC](https://xn--land-saar-z7a.cc/)](#--land-saarcc--https---xn--land-saar-z7acc--)
       - [Description](#description)
       - [Github](#github)
@@ -53,7 +53,7 @@
 
 # MY DOMAINS
 
-## Journeys' domains on .CC zone
+## Journeys domains on .CC zone
 
 ### [ÖLAND-SAAR.CC](https://xn--land-saar-z7a.cc/)
 
