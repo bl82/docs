@@ -1,7 +1,7 @@
 # Table of contents
 
 - [Table of contents](#table-of-contents)
-- [MY DOMAINS](#my-domains)
+- [My domains](#my-domains)
   * [Journeys domains on .CC zone](#journeys-domains-on-cc-zone)
     + [ÖLAND-SAAR.CC](#-land-saarcc)
       - [URL](#url)
